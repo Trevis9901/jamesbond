@@ -1,0 +1,25 @@
+.navbar ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 10px 30px;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+
+.navbar a:hover{
+    color: red;
+}
+.navbar li{
+    float: right;
+}
+.bakgrunn{
+    width: 100%;
+}
